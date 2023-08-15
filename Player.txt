@@ -1,1 +1,1 @@
-1
+1bool isDead = false;
